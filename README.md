@@ -1,2 +1,3 @@
-# CodePathWk3HW
-kali installation gifs
+# codepath_homework
+
+See branches for assignments.
